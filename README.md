@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist matthew-p/yii2-phone-input "@dev"
 or add
 
 ```
-"matthew-p/yii2-phone-input": "@dev"
+"kakadu-dev/yii2-phone-input": "@dev"
 ```
 
 to the require section of your `composer.json` file.
